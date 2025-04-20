@@ -14,7 +14,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Plugin Bikin Lemot
- * Plugin URI:        https://github.com/ahlaiptek/plugin-bikin-lemot
+ * Plugin URI:        https://github.com/ahlaiptek/wp-plugin-bikin-lemot
  * Description:       Sebuah plugin yang mendemonstrasikan proses yang bikin lemot baik pada dashboard maupun selainnya. 
  * Version:           1.0.0
  * Author:            Ahla Iptek
